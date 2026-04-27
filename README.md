@@ -1,13 +1,13 @@
-NYG Speed Test
+# NYG Speed Test
 
 A simple and responsive Internet Speed Test built with pure web technologies.
 This project measures connection speed and displays results in multiple units for better understanding.
 
-📸 Preview
+## 📸 Preview
 
 <img src="printspeedtest.png"></img>
 
-✨ Features
+## ✨ Features
 
 - 🚀 Real-time internet speed testing
 - 📊 Displays speed in Mbps, Kbps, and Bits
@@ -17,17 +17,17 @@ This project measures connection speed and displays results in multiple units fo
 - 🧠 Simple and easy-to-understand logic
 -💻 Fully client-side implementation
 
-🛠️ Built With
+## 🛠️ Built With
 
 Languages & Technologies
 
-![HTML5]
-![CSS3]
-![JavaScript]
+![HTML5] <br>
+![CSS3] <br>
+![JavaScript] <br>
 
 📁 Project Structure
 
-NYG-SpeedTest/
+NYG-SpeedTest/ <br>
 ├── index.html      → Page structure <br>
 ├── style.css       → Visual styling <br>
 ├── script.js       → Logic and speed calculation <br>
