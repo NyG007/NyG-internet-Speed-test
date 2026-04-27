@@ -5,7 +5,7 @@ This project measures connection speed and displays results in multiple units fo
 
 📸 Preview
 
-<img src="preview.png"></img>
+<img src="printspeedtest.png"></img>
 
 ✨ Features
 
