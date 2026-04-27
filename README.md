@@ -28,10 +28,10 @@ Languages & Technologies
 📁 Project Structure
 
 NYG-SpeedTest/
-├── index.html      → Page structure
-├── style.css       → Visual styling
-├── script.js       → Logic and speed calculation
-└── README.md       → Project documentation
+├── index.html      → Page structure <br>
+├── style.css       → Visual styling <br>
+├── script.js       → Logic and speed calculation <br>
+└── README.md       → Project documentation <br>
 
 👤 Author
 
